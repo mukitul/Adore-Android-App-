@@ -1,7 +1,7 @@
 # Adore Android-App
 Android Application Project.
 This project is for Android Application Development of 2nd year 2nd semester.
-This app is a health care app for pregnent mother and new born child.
+This app is a health care app for pregnant mother and new born child.
 
 # Tools Used
 1) Android Studio
@@ -32,7 +32,7 @@ Mother Care Options | Child Care Options
 2) Child Health Care Options -
   - Food Guide
   - Vaccine Tracker
-  - Baby's Growth During Pregnency
+  - Baby's Growth During Pregnancy
 
 3) Emergency Options -
   - Emergency Mobile Balance Recharge
