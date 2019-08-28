@@ -1,6 +1,5 @@
 # Adore Android-App
 Android Application Project.
-This project is for Android Application Development of 2nd year 2nd semester.
 This app is a health care app for pregnant mother and new born child.
 
 # Tools Used
